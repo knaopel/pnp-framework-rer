@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PnP.Framework.RER.Functions
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PnP.Framework.RER.Common", "PnP.Framework.RER.Common\PnP.Framework.RER.Common.csproj", "{A64ED11A-515A-4460-9750-F8873DB40FDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PnP.Framework.RER.Console", "PnP.Framework.RER.Console\PnP.Framework.RER.Console.csproj", "{B192863B-E0EB-41A4-BA36-645A2FA80F96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A64ED11A-515A-4460-9750-F8873DB40FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A64ED11A-515A-4460-9750-F8873DB40FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A64ED11A-515A-4460-9750-F8873DB40FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B192863B-E0EB-41A4-BA36-645A2FA80F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B192863B-E0EB-41A4-BA36-645A2FA80F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B192863B-E0EB-41A4-BA36-645A2FA80F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B192863B-E0EB-41A4-BA36-645A2FA80F96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
